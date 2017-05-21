@@ -18,3 +18,5 @@ Known issues:
 - Clicking on controls triggers sound as well.
 - Loop button on Choir synth does not work. Couldn't figure out a certain nuance with global envelopes on Pbind.
 - Performance decrease when resized to high dimensions.
+
+Watch a demo here: https://www.youtube.com/watch?v=BnRpOu-Y_7Y
